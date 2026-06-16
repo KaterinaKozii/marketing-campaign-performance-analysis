@@ -47,6 +47,7 @@
 
 У проєкті використано:
 - Jupyter Notebook
+- Python
 - Pandas
 - NumPy
 - Matplotlib
